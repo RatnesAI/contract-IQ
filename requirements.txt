@@ -1,0 +1,23 @@
+# ContractIQ — Python Dependencies
+groq
+pymupdf
+pdfplumber
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-groq
+sqlalchemy
+python-dotenv
+streamlit
+plotly
+pandas
+openpyxl
+reportlab
+apscheduler
+spacy
+python-multipart
+fastapi
+uvicorn
+nbformat
+ipywidgets
